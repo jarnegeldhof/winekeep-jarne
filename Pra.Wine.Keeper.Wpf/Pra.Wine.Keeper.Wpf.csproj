@@ -16,6 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Prb.Wine.Keeper.Core\Prb.Wine.Keeper.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="resources\magnifying-glass.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>

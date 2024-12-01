@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pra.Wine.Keeper.Wpf", "Pra.Wine.Keeper.Wpf\Pra.Wine.Keeper.Wpf.csproj", "{47A268C8-9D7F-47C8-934A-75340F56E5EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prb.Wine.Keeper.Core", "Prb.Wine.Keeper.Core\Prb.Wine.Keeper.Core.csproj", "{2F0F317F-D8DD-470E-9A43-5CAF56D633B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47A268C8-9D7F-47C8-934A-75340F56E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47A268C8-9D7F-47C8-934A-75340F56E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47A268C8-9D7F-47C8-934A-75340F56E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0F317F-D8DD-470E-9A43-5CAF56D633B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0F317F-D8DD-470E-9A43-5CAF56D633B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0F317F-D8DD-470E-9A43-5CAF56D633B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0F317F-D8DD-470E-9A43-5CAF56D633B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
